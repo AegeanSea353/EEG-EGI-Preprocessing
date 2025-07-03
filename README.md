@@ -3,7 +3,7 @@ This is a MATLAB-based preprocessing pipeline in multi-subject batch for EEG dat
 
 The preprocessing pipeline consists of a two-stage (Pre-ICA + Post-ICA) procedure, while selecting potential artifact ICs manually is necessary.
 
-The codes here require EEGLAB (under test at version v2021.1, but earlier versions also should run smoothly), which includes sub-plugins 'MFFMatlabIO', 'clean_rawdata', and 'ERPLAB'.
+The codes here require EEGLAB (http://sccn.ucsd.edu/eeglab/) (under test at version v2021.1, but earlier versions also should run smoothly), which includes sub-plugins 'MFFMatlabIO', 'clean_rawdata', and 'ERPLAB'.
 
 For the first step, the 'group_pre_beforeICA.m' configures some parameters and path settings. This code includes five basic steps:
 
