@@ -28,4 +28,4 @@ The pipeline will generate EEGLAB-compatible .fdt / .set format after each prepr
 
 It should be clear that there is no unique, correct way of preprocessing EEG data. This pipeline only represents one approach to EEG preprocessing according to the author's 5-year experience. Furthermore, users should always validate with specific experimental designs and data characteristics.
 
-For questions or contributions, pls contact h2583911160@gmail.com for questions and remarks :-)!
+For questions or contributions, pls contact AlanAlanVivoVivo@163.com for questions and remarks :-)!
